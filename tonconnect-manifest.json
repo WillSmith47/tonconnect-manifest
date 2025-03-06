@@ -1,7 +1,7 @@
 {
   "url": "https://raw.githubusercontent.com/WillSmith47/tonconnect-manifest/refs/heads/main/tonconnect-manifest.json",
   "name": "Cicada",
-  "iconUrl": "https://14dd-46-119-241-91.ngrok-free.app/logo.webp",
+  "iconUrl": "https://14dd-46-119-241-91.ngrok-free.app/logo1.webp",
   "termsOfUseUrl": "https://ton-connect.github.io/demo-dapp/terms-of-use.txt",
   "privacyPolicyUrl": "https://ton-connect.github.io/demo-dapp/privacy-policy.txt"
 }
